@@ -1,0 +1,6 @@
+{
+"scope": "x_test_abc_test,
+"scopeId": "1ae2d166339323210ad466832cd5c7b17",
+"name": "Test App",
+"tsconfigPath": "./src/server/tsconfig.json"
+}
